@@ -1,0 +1,36 @@
+@import url(./cabecalho.css);
+@import url(./menu/menu__lista.css);
+@import url(./menu/menu__item.css);
+@import url(./menu/menu__link.css);
+@import url(./banner/banner.css);
+@import url(./banner/banner__img.css);
+@import url(./banner/banner__titulo.css);
+@import url(./sobre/sobre.css);
+@import url(./sobre/sobre__titulo.css);
+@import url(./sobre/sobre__descricao.css);
+@import url(./receitas/receitas.css);
+@import url(./receitas/receita.css);
+@import url(./receitas/receita__titulo.css);
+@import url(./receitas/receita__img.css);
+@import url(./receitas/receita__descricao.css);
+@import url(./receitas/receita__conteudo.css);
+@import url(./receitas/receita__botao.css);
+@import url(./quemSomos/quemSomos.css);
+@import url(./quemSomos/quemSomos__titulo.css);
+@import url(./quemSomos/quemSomos__descricao.css);
+@import url(./pessoas/pessoas.css);
+@import url(./pessoas/pessoa.css);
+@import url(./pessoas/pessoa__nome.css);
+@import url(./pessoas/pessoa__funcao.css);
+@import url(./pessoas/pessoa__img.css);
+@import url(./rodape.css);
+
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}

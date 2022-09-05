@@ -1,0 +1,12 @@
+.menu__item{
+    list-style-type: none;
+}
+
+.menu__item:last-child .menu-link{
+    margin-right: 0;
+}
+.menu__item:hover{
+    color: rgba(7, 7, 7, 0.2);
+    text-decoration: underline;
+    font-weight: bold;
+}
